@@ -1,5 +1,6 @@
 # Covid19 Sweden - Real Time Monitoring and Analysis v.0.1
 This is the first version of the application. Very basic funcionality is implemented and at the moment only reading from the first sheet ("Antal per dag region") of the excel file provided.
+
 In upcoming vesions:
  - Analysis tools for the rest of the sheets: Antal avlidna per dag, Antal intensivvårdade per dag, Totalt antal per region,     Totalt antal per kön, Totalt antal per åldersgrupp.
 
