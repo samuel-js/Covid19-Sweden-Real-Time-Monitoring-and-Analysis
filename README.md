@@ -11,6 +11,6 @@ https://tinyurl.com/rlkcnym
  Datafile source: https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data
  Realtime data from Folkhalsomyndigheten https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
  
-This application is not intended to be used to draw any conclusions or to be support for any opinions. It's plain transparent data wrangling and analysis and will help you to see through the data provided by thr goverment. The code is provided for you to see how graphs and different outputs are provided and computed.
+This application is not intended to be used to draw any conclusions or to be support for any opinions. It's plain transparent data wrangling and analysis and will help you to see through the data provided by the goverment. The code is provided for you to see how graphs and different outputs are provided and computed.
 
 Feel free to fork the repository and modify the code to build your own analysis.
