@@ -1,4 +1,4 @@
-# Covid19 Sweden - Real Time Monitoring and Analysis v.0.3
+# Covid19 Sweden - Real Time Monitoring and Analysis v.0.35
 This is simple analysis tool to monitor and analize data provided the swedish Folkhälsomyndigheten.
 
 Datafile source: https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data
@@ -8,7 +8,7 @@ This application is not intended to be used to draw any conclusions or to be sup
 
 Feel free to fork the repository and modify the code to build your own analysis.
 
-## v.0.1, v.0.2, 0.3
+## v.0.1, v.0.2, v.0.3
 This is the first version of the application. Very basic funcionality is implemented and at the moment only reading from the first sheet ("Antal per dag region") of the excel file provided.
 
 In upcoming vesions:
