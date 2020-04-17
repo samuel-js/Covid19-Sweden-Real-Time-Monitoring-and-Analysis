@@ -1,4 +1,4 @@
-# Covid19 Sweden - Real Time Monitoring and Analysis v.0.4
+# Covid19 Sweden - Real Time Monitoring and Analysis v.0.5
 This is simple analysis tool to monitor and analize data provided the swedish Folkhälsomyndigheten.
 
 Datafile source: https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data
@@ -16,3 +16,9 @@ In upcoming vesions:
 
 Path to Binder interactive notebooks:
 https://tinyurl.com/rlkcnym
+
+## v.0.4
+Added explanatory text for correlation code
+
+## v.0.5
+Added comparison between the amount of deaths and the amount of people reciving intensive care. Gruped by age.
